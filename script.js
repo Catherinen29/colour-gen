@@ -25,6 +25,8 @@ const generateColour = () => {
     }
 }
 
+// Set colours on page load
+generateColour()
 
 let btn = document.querySelector('.btn-random');
 btn.addEventListener('click', generateColour);

@@ -22,6 +22,9 @@ h1 {
     width: 10rem;
     height: 10rem;
     border: 0.2rem solid black;
-    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    font-size: 1.5rem;
     color: black;
 }
