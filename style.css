@@ -1,0 +1,41 @@
+body {
+    margin: 3rem;
+    padding: 0;
+}
+
+h1 {
+    margin: auto;
+}
+
+.btn-random {
+    margin: 1rem;
+}
+.colour-list {
+    list-style-type: none;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.colour {
+    width: 10rem;
+    height: 10rem;
+    border: 0.2rem solid black;
+}
+
+.colour-1 {
+    background-color: pink;
+}
+.colour-2 {
+    background-color: lightskyblue;
+}
+.colour-3 {
+    background-color: orange;
+}
+.colour-4 {
+    background-color: yellow;
+}
+.colour-5 {
+    background-color: lightgreen;
+}
