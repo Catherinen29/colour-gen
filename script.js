@@ -32,7 +32,6 @@ let btnRandom = document.querySelector('.btn-random');
 btnRandom.addEventListener('click', mixAll);
 
 
-
 const generateOneClr = (e) => {
         let newColour = '#';
         for (let i = 0; i < 6; i++) {
